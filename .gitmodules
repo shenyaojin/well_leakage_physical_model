@@ -1,0 +1,6 @@
+[submodule "PAN"]
+	path = PAN
+	url = https://github.com/shenyaojin/PAN.git
+[submodule "DSS_analyzer_Mariner"]
+	path = DSS_analyzer_Mariner
+	url = https://github.com/shenyaojin/DSS_analyzer_Mariner.git
