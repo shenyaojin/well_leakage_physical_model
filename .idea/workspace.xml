@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68861263-ffb8-4074-a944-c98fba5a75c7" name="Changes" comment="Update on dynamic time sampling">
+    <list default="true" id="68861263-ffb8-4074-a944-c98fba5a75c7" name="Changes" comment="Update on dynamic time sampling script. Clean up.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/050_time_sampling_optimizer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/050_time_sampling_optimizer.ipynb" afterDir="false" />
     </list>
@@ -102,7 +102,7 @@
       <workItem from="1732508149358" duration="23859000" />
       <workItem from="1732573669869" duration="49000" />
       <workItem from="1732573721867" duration="8056000" />
-      <workItem from="1733377397918" duration="2323000" />
+      <workItem from="1733377397918" duration="8836000" />
     </task>
     <task id="LOCAL-00001" summary="First push">
       <option name="closed" value="true" />
@@ -152,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732573710092</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update on dynamic time sampling script. Clean up.">
+      <option name="closed" value="true" />
+      <created>1733379971240</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733379971240</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +183,7 @@
     <MESSAGE value="Moving from midland to local machine -- update" />
     <MESSAGE value="Update on old history matching." />
     <MESSAGE value="Update on dynamic time sampling" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update on dynamic time sampling" />
+    <MESSAGE value="Update on dynamic time sampling script. Clean up." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update on dynamic time sampling script. Clean up." />
   </component>
 </project>
