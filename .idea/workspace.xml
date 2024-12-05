@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68861263-ffb8-4074-a944-c98fba5a75c7" name="Changes" comment="Update dependence">
+    <list default="true" id="68861263-ffb8-4074-a944-c98fba5a75c7" name="Changes" comment="Update test PAN.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PAN/core/grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/PAN/core/grid.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "5047380b",
+    "git-widget-placeholder": "8bc7be92",
     "last_opened_file_path": "/Users/shenyaojin/Documents/mariner_project/model_validation_1025/well_leakage_physical_model",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -101,7 +102,7 @@
       <workItem from="1732508149358" duration="23859000" />
       <workItem from="1732573669869" duration="49000" />
       <workItem from="1732573721867" duration="8056000" />
-      <workItem from="1733377397918" duration="9721000" />
+      <workItem from="1733377397918" duration="13104000" />
     </task>
     <task id="LOCAL-00001" summary="First push">
       <option name="closed" value="true" />
@@ -175,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733423861664</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update test PAN.">
+      <option name="closed" value="true" />
+      <created>1733424054957</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733424054957</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +209,7 @@
     <MESSAGE value="Update on dynamic time sampling" />
     <MESSAGE value="Update on dynamic time sampling script. Clean up." />
     <MESSAGE value="Update dependence" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update dependence" />
+    <MESSAGE value="Update test PAN." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update test PAN." />
   </component>
 </project>
