@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68861263-ffb8-4074-a944-c98fba5a75c7" name="Changes" comment="Update on old history matching.">
-      <change afterPath="$PROJECT_DIR$/050_time_sampling_optimizer.ipynb" afterDir="false" />
+    <list default="true" id="68861263-ffb8-4074-a944-c98fba5a75c7" name="Changes" comment="Update on dynamic time sampling">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/022_physcal_model_various_decayfactor_test_anothermodel.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/022_physcal_model_various_decayfactor_test_anothermodel.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/040_history_matching_new.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/040_history_matching_new.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/050_time_sampling_optimizer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/050_time_sampling_optimizer.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,20 +56,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/shenyaojin/Documents/mariner_project/model_validation_1025/well_leakage_physical_model",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/shenyaojin/Documents/mariner_project/model_validation_1025/well_leakage_physical_model&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -102,6 +100,9 @@
       <workItem from="1732500946867" duration="4616000" />
       <workItem from="1732508086879" duration="58000" />
       <workItem from="1732508149358" duration="23859000" />
+      <workItem from="1732573669869" duration="49000" />
+      <workItem from="1732573721867" duration="8056000" />
+      <workItem from="1733377397918" duration="2323000" />
     </task>
     <task id="LOCAL-00001" summary="First push">
       <option name="closed" value="true" />
@@ -143,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732490469535</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update on dynamic time sampling">
+      <option name="closed" value="true" />
+      <created>1732573710092</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732573710092</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +174,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="Moving from midland to local machine -- update" />
     <MESSAGE value="Update on old history matching." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update on old history matching." />
+    <MESSAGE value="Update on dynamic time sampling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update on dynamic time sampling" />
   </component>
 </project>
